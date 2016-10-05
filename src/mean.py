@@ -16,4 +16,4 @@ infile.close()
 
 # Calculate the mean.
 mean = mean/n
-print mean
+print "The mean value is" , mean
